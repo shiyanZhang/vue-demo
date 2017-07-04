@@ -1,12 +1,12 @@
 # vuecli-demo
 >学习Vue-cli + axios & superagent
 
-##Vue-cli & superagent
+## Vue-cli & superagent
 index.vue
 app.js
 文件结构参考：http://blog.csdn.net/fungleo/article/details/53171614
 
-##axios
+## axios
 moives.vue
 
 ##tips
