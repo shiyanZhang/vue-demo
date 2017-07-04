@@ -9,7 +9,7 @@ app.js
 ## axios
 moives.vue
 
-##tips
+## tips
 vue2.0mounted替代ready，vue2.0实例生命周期 https://vuejs.org/v2/guide/instance.html#Lifecycle-Diagram
 
 > A Vue.js project
